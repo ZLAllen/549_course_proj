@@ -1,0 +1,6 @@
+INPUT(A)
+INPUT(B)
+
+OUTPUT(O)
+
+O = NOR(A,B)

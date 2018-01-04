@@ -1,0 +1,4 @@
+INPUT(A)
+INPUT(B)
+OUTPUT(C)
+C = XOR(A,A,A,B)

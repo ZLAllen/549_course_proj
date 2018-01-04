@@ -1,0 +1,6 @@
+INPUT(A)
+INPUT(B)
+OUTPUT(c)
+e = AND(A, B)
+f = NOT(B)
+c = OR(e,f)

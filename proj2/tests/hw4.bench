@@ -1,0 +1,10 @@
+INPUT(1)
+INPUT(2)
+INPUT(3)
+
+OUTPUT(7)
+
+4 = AND(2, 3)
+5 = XOR(1, 4)
+7 = NOR(4, 5)
+
